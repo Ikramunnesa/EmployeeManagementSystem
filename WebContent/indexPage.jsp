@@ -16,10 +16,10 @@
 	</header>
 	<div style="margin: 0 auto;">
 	<ul class="nav navbar-nav">
-	<a href="/EMS/indexPage.jsp">Home</a>
-	<a href="/EMS/addEmployeeForm.jsp">Add Employee</a>
-	<a href="/EMS/showEmployee.jsp">Show All Employees</a>
-	<a href="/EMS/loginForm.jsp">Log In</a>
+	<a href="/EMS/indexPage.jsp">Home</a><br>
+	<a href="/EMS/addEmployeeForm.jsp">Add Employee</a><br>
+	<a href="/EMS/showEmployee.jsp">Show All Employees</a><br>
+	<a href="/EMS/loginForm.jsp">Log In</a><br>
 	<a href="/EMS/registerForm.jsp">Register</a>
 	
 	</ul>
