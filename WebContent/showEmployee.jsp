@@ -20,39 +20,39 @@ List<Employee> empList=employeeGateway.getAllEmployee();
 <table>
 <thead>
 <tr>
-<td>Employee Id</td>
+<td><b></font><font color="black">Employee Id</font></b></td>
 <td>
-<td>First Name</td>
+<td><b></font><font color="black">First Name</font></b></td>
 <td>
-<td>Last Name</td>
+<td><b></font><font color="black">Last Name</font></b></td>
 <td>
-<td>Father Name</td>
+<td><b></font><font color="black">Father Name</font></b></td>
 <td>
-<td>Mother Name</td>
+<td><b></font><font color="black">Mother Name</font></b></td>
 <td>
-<td>Email</td>
+<td><b></font><font color="black">Email</font></b></td>
 <td>
-<td>Date of Birth</td>
+<td><b></font><font color="black">Date of Birth</font></b></td>
 <td>
-<td>Address</td>
+<td><b></font><font color="black">Address</font></b></td>
 <td>
-<td>Contact</td>
+<td><b></font><font color="black">Contact</font></b></td>
 <td>
-<td>Gender</td>
+<td><b></font><font color="black">Gender</font></b></td>
 <td>
-<td>Department</td>
+<td><b></font><font color="black">Department</font></b></td>
 <td>
-<td>Designation</td>
+<td><b></font><font color="black">Designation</font></b></td>
 <td>
-<td>NID</td>
+<td><b></font><font color="black">NID</font></b></td>
 <td>
-<td>Religion</td>
+<td><b></font><font color="black">Religion</font></b></td>
 <td>
-<td>Maritual Status</td>
+<td><b></font><font color="black">Maritual Status</font></b></td>
 <td>
-<td>Joining Date</td>
+<td><b></font><font color="black">Joining Date</font></b></td>
 <td>
-<td>Salary</td>
+<td><b></font><font color="black">Salary</font></b></td>
 </tr>
 </thead>
 <tbody>
