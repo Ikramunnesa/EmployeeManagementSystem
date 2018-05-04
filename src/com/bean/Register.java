@@ -12,7 +12,7 @@ import javax.persistence.Id;
 public class Register {
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
-	private String id;
+	private int id;
 	@Column(unique=true)
 	private String firstName;
 	private String lastName;
@@ -21,12 +21,27 @@ public class Register {
 	private String email;
 	private String address;
 	private String contact;
-	public String getId() {
+	private String password;
+	private String confirmPassword;
+	public int getId() {
 		return id;
 	}
-	public void setId(String id) {
+	public void setId(int id) {
 		this.id = id;
 	}
+	public String getPassword() {
+		return password;
+	}
+	public void setPassword(String password) {
+		this.password = password;
+	}
+	public String getConfirmPassword() {
+		return confirmPassword;
+	}
+	public void setConfirmPassword(String confirmPassword) {
+		this.confirmPassword = confirmPassword;
+	}
+	
 	public String getFirstName() {
 		return firstName;
 	}
